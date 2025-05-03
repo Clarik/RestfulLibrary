@@ -1,0 +1,9 @@
+PUT  http://localhost:8080/books/5
+Content-Type: application/json
+Authorization: static-token
+
+{
+    "title" : "a5@gmail5.com",
+    "author" : "author",
+    "description" :"description"
+}

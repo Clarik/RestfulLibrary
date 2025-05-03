@@ -1,0 +1,10 @@
+POST http://localhost:8080/books
+Content-Type: application/json
+Authorization: static-token
+
+{
+    "title": "The Great Gatsby2",
+    "author": "F. Scott Fitzgerald",
+    "description": "ABC",
+    "description": "BCD"
+}
