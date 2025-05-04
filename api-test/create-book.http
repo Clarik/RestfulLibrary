@@ -3,8 +3,7 @@ Content-Type: application/json
 Authorization: static-token
 
 {
-    "title": "The Great Gatsby2",
-    "author": "F. Scott Fitzgerald",
-    "description": "ABC",
+    "title": "Second Book",
+    "author": "Second Author",
     "description": "BCD"
 }
